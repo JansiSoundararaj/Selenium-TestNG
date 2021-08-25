@@ -50,7 +50,7 @@ public class HandlingAlerts {
 			alert.accept();
 			
 		} catch (Exception e) {
-			// TODO Auto-generated catch block
+		
 			e.printStackTrace();
 		}
 
